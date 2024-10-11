@@ -1,0 +1,15 @@
+.redp{
+    font-weight: bolder;
+    color: red;
+}
+.blued{
+    color: blue;
+    
+}
+
+.search-icon{
+    width:2.5rem;
+    border:1px solid black;
+    background-color: rgb(57, 57, 228);
+
+}
